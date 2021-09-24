@@ -15,4 +15,4 @@ The app used Local Storage.
 
 ## Link 🔗
 
-[Click Me!](https://my-menu-component.netlify.app/)
+[Click Me!](https://mygrocery.netlify.app/)
